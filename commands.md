@@ -17,9 +17,6 @@
 ```bash
 1. docker images
 2. docker pull <image_name>:<tag>
-3. docker pull <image_name>:<tag>
-4. docker pull <image_name>:<tag>
-5. docker pull <image_name>:<tag>
 ```
 
 # 4. Docker Container Operations
@@ -45,9 +42,6 @@
 # 6. Docker Build Commands
 ```bash
 1. docker build -t <image_name> .
-2. docker build -t <image_name> .
-3. docker build -t <image_name> .
-4. docker build -t <image_name> .
 ```
 
 # 7. Running Built Containers
@@ -75,8 +69,7 @@
 1. docker system prune
 2. docker volume ls
 3. docker rmi <image_id>
-4. docker rmi <image_id>
-5. docker images | grep <search_term>
+4. docker images | grep <search_term>
 ```
 
 # 10. Docker Authentication
